@@ -3,6 +3,7 @@
 Amazon India Sales Analysis Project
 
 Overview
+
 **This project involves analyzing sales data from Amazon India to derive insights into revenue, product performance, customer behavior, and state-wise sales dynamics. 
 Using MySQL for data extraction and Excel for visualization, the analysis covers various business problems to understand sales patterns, identify high-performing products, and assess customer behaviors.**
 
@@ -22,7 +23,7 @@ SELLERS : Contains details about customers.
 
 Analysis Summary
 
---problems )  Revenue and Sales Insights-------------------------------------------------------------------------------------------------------------------------------------------------
+problem )  Revenue and Sales Insights--------------------------------------------------------------------------------------------
 
 **Total Revenue: Calculated the total revenue generated from all orders.
 
@@ -37,7 +38,7 @@ State-specific Sales: Analyzed total sales for Goa.
 Unique Customers: Counted the number of unique customers who placed orders.**
 
 
-problems )    Detailed Business Problems--------------------------------------------------------------------------------------------------------------------------------------------------
+problems )   Detailed Business Problems---------------------------------------------------------------------------------------------
 
 **Top Sales States: Identified the top 5 states with the highest total sales revenue.
 
@@ -51,7 +52,7 @@ Best Selling Month: Determined the best-selling month in 2022 based on revenue.
 
 High Revenue Products: Found the top 3 products with revenue exceeding 20,000.**
 
-problems )     Customer and Return Analysis----------------------------------------------------------------------------------------------------------------------------------------------
+problems )  Customer and Return Analysis-------------------------------------------------------------------------------------------
 
 **Customer Orders and Revenue: Identified customer names, their total orders, and revenue.
 
@@ -63,7 +64,7 @@ High Order States: Identified states with the highest total number of orders whe
 
 High Sales Products: Found products with total sales exceeding the average sales of all products.**
 
-problems) Advanced Analysis----------------------------------------------------------------------------------------------------------------------------------------------------------------
+problems) Advanced Analysis-----------------------------------------------------------------------------------------------------------
 
 **Customer Behavior: Labeled customers as "returning" or "new" based on their return activity.
 
@@ -84,7 +85,7 @@ Quarterly Sales: Computed quarterly sales for each year.
 Top Sales Customer per Year: Identified customers with the highest total sales for each year.**
 
 
-------Behavior Analysis and Problem Addressing-----------------------------------------------------------------------------------------------------------------------------
+------Behavior Analysis and Problem Addressing--------------------------------------------------------------------------
 
 **Purchasing Behavior: Analyzed significant changes in customer purchasing behavior.
 
@@ -96,7 +97,7 @@ Unordered Products: Listed products that have never been ordered.
 
 State-wise Sales Factors: Analyzed factors affecting sales across states and identified potential for increasing sales in larger population states.**
 
-Key Findings and Recommendations------------------------------------------------------------------------------------------------------------------------------------------------------
+Key Findings and Recommendations-----------------------------------------------------------------------------------------
 
 **Sales Distribution: Identified states with significant sales and opportunities for growth in less populated states.
 
@@ -111,7 +112,7 @@ This comprehensive analysis not only highlights current performance but also pro
 The project showcases the effective use of SQL queries for data extraction and Excel for visualization, making it a robust analysis of Amazon India's sales data.**
 
 
-
+------------------------------------------------------------------------------------------------------------------
 
 
 
